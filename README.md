@@ -5,8 +5,9 @@ Trước khi chạy code infer, hãy đảm bảo bạn cập nhật đường d
 Có hai file infer chính được cung cấp:
 1. zinfer_all.py
 
-File này được thiết kế để đánh giá độ chính xác trên một tập test với cấu trúc thư mục trong đó mỗi thư mục con tương ứng với một class khác nhau và chứa các ảnh cần test của class đó. Hãy điều chỉnh config trước khi chạy.
+    File này được thiết kế để đánh giá độ chính xác trên một tập test với cấu trúc thư mục trong đó mỗi thư mục con tương ứng với một class khác nhau và chứa các ảnh cần test của class đó. Hãy điều chỉnh config trước 
+    khi chạy.
 
 2. zinfer_single.py
 
-File này cho phép bạn đánh giá các class dự đoán cho mỗi ảnh trong một thư mục test. Hãy cập nhật config với các đường dẫn phù hợp trước khi thực thi.
+    File này cho phép bạn đánh giá các class dự đoán cho mỗi ảnh trong một thư mục test. Hãy cập nhật config với các đường dẫn phù hợp trước khi thực thi.
