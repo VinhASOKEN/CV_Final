@@ -1,4 +1,4 @@
-Tổng Quan
+**Tổng Quan
 Dự án này bao gồm mã nguồn triển khai cho ba mô hình khác nhau: Dino, Resnet50 và ViT. Mỗi mô hình có một thư mục riêng, và các tệp trọng số cho các mô hình này đã được công khai trong từng thư mục tương ứng.
 
 Bắt Đầu
