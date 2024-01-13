@@ -1,0 +1,3 @@
+Dino     : HaiQuan
+ResNet50 : HaiQuan
+ViT      : HaiQuan

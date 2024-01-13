@@ -1,0 +1,3 @@
+Dino     : Baemin
+ResNet50 : Baemin
+ViT      : Baemin

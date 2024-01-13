@@ -1,0 +1,3 @@
+Dino     : Grab
+ResNet50 : Grab
+ViT      : Grab

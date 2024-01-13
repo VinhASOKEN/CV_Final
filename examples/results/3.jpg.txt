@@ -1,0 +1,3 @@
+Dino     : AnNinhNhanDan
+ResNet50 : AnNinhNhanDan
+ViT      : AnNinhNhanDan

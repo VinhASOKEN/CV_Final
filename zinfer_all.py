@@ -15,7 +15,6 @@ from PIL import Image
 
 
 if __name__ == '__main__':
-
     test_folder = "/data/disk2/vinhnguyen/Dino/test"
     device = torch.device('cuda') if torch.cuda.is_available() else torch.device('cpu')
 

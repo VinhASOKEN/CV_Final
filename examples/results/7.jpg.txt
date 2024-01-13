@@ -1,0 +1,3 @@
+Dino     : Be
+ResNet50 : Be
+ViT      : Be

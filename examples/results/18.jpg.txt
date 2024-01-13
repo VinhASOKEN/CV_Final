@@ -1,0 +1,3 @@
+Dino     : TPBank
+ResNet50 : TPBank
+ViT      : TPBank

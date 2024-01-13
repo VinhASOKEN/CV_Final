@@ -1,0 +1,3 @@
+Dino     : VietjetAirlines
+ResNet50 : VietjetAirlines
+ViT      : VietjetAirlines

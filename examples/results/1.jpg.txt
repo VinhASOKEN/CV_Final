@@ -1,0 +1,3 @@
+Dino     : ACBBank
+ResNet50 : ACBBank
+ViT      : ACBBank

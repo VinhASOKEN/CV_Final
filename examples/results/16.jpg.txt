@@ -1,0 +1,3 @@
+Dino     : PhongChayChuaChay
+ResNet50 : PhongChayChuaChay
+ViT      : PhongChayChuaChay

@@ -1,0 +1,3 @@
+Dino     : Shopee
+ResNet50 : Shopee
+ViT      : Shopee

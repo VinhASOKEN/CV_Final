@@ -1,0 +1,3 @@
+Dino     : ViettelPost
+ResNet50 : ViettelPost
+ViT      : ViettelPost

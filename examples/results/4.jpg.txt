@@ -1,0 +1,3 @@
+Dino     : BacABank
+ResNet50 : BacABank
+ViT      : BacABank

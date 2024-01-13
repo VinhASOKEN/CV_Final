@@ -1,0 +1,3 @@
+Dino     : BambooAirways
+ResNet50 : BambooAirways
+ViT      : BambooAirways

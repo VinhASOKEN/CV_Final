@@ -1,0 +1,3 @@
+Dino     : Agribank
+ResNet50 : Agribank
+ViT      : Agribank

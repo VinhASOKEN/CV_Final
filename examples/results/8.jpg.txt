@@ -1,0 +1,3 @@
+Dino     : BIDV
+ResNet50 : BIDV
+ViT      : Now

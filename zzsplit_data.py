@@ -2,7 +2,7 @@ import os
 import shutil
 import random
 
-data_folder = '/data/disk2/vinhnguyen/Dino/train_a'
+data_folder = '/data/disk2/vinhnguyen/Dino/data'
 train_folder = '/data/disk2/vinhnguyen/Dino/train'
 valid_folder = '/data/disk2/vinhnguyen/Dino/valid'
 
